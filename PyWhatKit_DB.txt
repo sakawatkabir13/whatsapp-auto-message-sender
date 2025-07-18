@@ -1,0 +1,35 @@
+Date: 19/7/2025
+Time: 2:33
+Phone Number: +1234567890
+Message: Hello! This is a scheduled test message.
+--------------------
+Date: 19/7/2025
+Time: 2:35
+Phone Number: +1234567890
+Message: Hello! This is an instant test message.
+--------------------
+Date: 19/7/2025
+Time: 2:38
+Phone Number: +8801750424301
+Message: Hello! This is from terminal
+--------------------
+Date: 19/7/2025
+Time: 2:40
+Phone Number: +8801750424301
+Message: Hello! Another from terminal
+--------------------
+Date: 19/7/2025
+Time: 2:41
+Phone Number: +8801750424301
+Message: Hello! This is from terminal
+--------------------
+Date: 19/7/2025
+Time: 2:51
+Phone Number: +8801750424301
+Message: Good Night sweety
+--------------------
+Date: 19/7/2025
+Time: 2:53
+Phone Number: +8801750424301
+Message: Happy Birthday!
+--------------------
